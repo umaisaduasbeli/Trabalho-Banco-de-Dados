@@ -39,7 +39,7 @@ Este repositório contém o modelo conceitual, scripts de criação, inserção 
 
 ## :framed_picture: Prévia do Modelo Conceitual
 
-![Modelo Conceitual](<Modelo Conceitual (rede de hoteis).jpg>)
+![Modelo Conceitual](<BD_locadoraVeiculos/img.jpg>)
 
 ---
 
